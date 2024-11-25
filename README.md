@@ -11,6 +11,7 @@ Validation Rules:
 +  Negative inputs are rejected with a custom error message (revert statement).
 +  Inputs greater than 100 are rejected with a custom error message (revert statement).
 +  The function ensures the input is in the range of 1 to 100 (assert statement).
+  
 Number Categorization:
 
 +  Returns "Even Number Range" if the input is even.
